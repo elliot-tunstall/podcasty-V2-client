@@ -7,6 +7,6 @@ Podcasting Application Frontend Version 2
 - advanced audio playback
 - transcription manipulation and translation
 
-Backend remains private.
+Node.js + Express backend remains private.
 
 
